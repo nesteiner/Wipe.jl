@@ -1,0 +1,10 @@
+name = "Wipe"
+uuid = "b084f27a-8a29-418f-bba1-0c00b183d848"
+authors = ["steiner <steiner3044@163.com>"]
+version = "0.1.0"
+
+[deps]
+ArgumentParser = "13266774-ad70-4d30-9a29-e1172c00903f"
+EnumX = "4e289a0a-7415-4d19-859d-a7e5c4648b56"
+Format = "1fa38f19-a742-5d3f-a2b9-30dd87b9d5f8"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
